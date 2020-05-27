@@ -1,0 +1,24 @@
+.main_container_2{
+    float: right;    
+    border: 0.1em solid white;
+    width: 30%;
+    height: auto;
+    padding: 1em;
+}
+.container_2{
+    border: 0.1em solid white;
+    padding: 1em;
+}
+h4 {
+    text-align: center;
+}
+.clear{
+    clear: right;
+}
+.article{
+    /* border: 0.1em solid white; */
+    border: 0.1em solid #ffffff;
+    width: 15em;
+    height: 15em;
+    margin: 1em;
+}

@@ -1,0 +1,40 @@
+footer{
+    margin-top: 1em;
+    /* border: 0.2em solid white; */
+    width: auto;
+    height: 10em;
+
+}
+.contact{
+    display: inline-block;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 5em;
+    margin-right: 1em;
+    /* border: 0.2em solid white; */
+    width: 20em;
+    height: 7em;
+}
+/* .fa-envelope{
+    padding-top: 0.2em;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    padding-bottom: 0.2em;
+}
+.fa-phone-alt{
+    padding-top: .2em;
+    padding-left: .2em;
+    padding-right: .2em;
+}
+.fa-home{
+    padding-top: 0.2em;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    padding-bottom: 0.2em;
+} */
+.fa-envelope, .fa-phone-alt, .fa-home, .fa-facebook, .fa-instagram {
+    padding-top: 0.2em;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    padding-bottom: 0.2em;
+}

@@ -1,0 +1,23 @@
+.container_fresh{
+    /* border: 1px solid white; */
+    width: auto;
+    height: auto;
+    border-bottom: 1px solid #fff ;
+
+}
+img{
+    margin-top: 3vh;
+    width: 20em;
+    height: auto;
+    padding-left: 1.5em;
+}
+.container_fresh > div{
+    display: inline-block;
+    border: 1px solid white;
+    width: 25vw;
+    height: auto;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-left: 4vw;
+    margin-right: 3vw;
+}

@@ -1,0 +1,14 @@
+ul{
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 0.1vw;
+    border-color: #ffffff;
+}
+li{
+    display: inline-block;
+    vertical-align: top;
+    margin: 1vw 3vw;
+    padding: 0.5vw;
+    font-size: 1.5vw;
+    font-weight: normal;   
+}

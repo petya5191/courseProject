@@ -1,0 +1,9 @@
+aside{
+    /* display: block; */
+    float: right;
+    border: 0.2em solid white;
+    margin-top: 14em;
+    margin-right: 2em;
+    width: 20em;
+    height: 33em ;
+}

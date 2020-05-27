@@ -1,0 +1,16 @@
+aside{
+    display: block;
+    float: right;
+    border: 0.2em solid white;
+    margin-top: 15vw;
+    margin-right: 5vw;
+    width: 25vw;
+    height: auto ;
+}
+aside > div{    
+    /* border: 0.1vh solid white; */
+    width: auto;
+    height: auto;
+    margin-top: 1vh;
+    text-align: center;
+}

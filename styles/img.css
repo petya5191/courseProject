@@ -1,0 +1,13 @@
+img {
+    display: block;
+    width: 40vw;
+    height: 50vh;
+    margin-bottom: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+.photo{
+    margin: 2em;
+    width: 15em;
+    height:auto;
+}

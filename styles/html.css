@@ -1,0 +1,17 @@
+        *{  
+            font-family: "Montserrat";
+            color: white;
+            box-sizing: border-box;
+        }
+        @font-face {
+            font-family: "Montserrat";
+            src: url("../styles/fonts/Montserrat/MontserratAlternates-Italic.ttf");
+        }
+        html {
+            background-color: #66cc66;
+            box-sizing: border-box;
+        }
+        
+        body{
+            box-sizing: border-box;
+        }

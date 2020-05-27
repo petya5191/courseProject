@@ -1,0 +1,39 @@
+*{
+    font-family: "Montserrat";
+    color: #ffffff;
+    box-sizing: border-box;
+}
+main{
+    display: block;
+    width: auto;    
+    height: auto;
+    /* border: 0.2em solid; */
+    border-bottom: 0.2em solid white;
+}
+#header_2{
+    font-size: 1.5em;
+    font-weight: normal;
+}
+article{
+    /* text-align: left; */
+    text-indent: 1em;
+    letter-spacing: 0.2em;
+    border-bottom: 0.2em solid white;
+    padding-bottom: 1em;
+}
+.div_photo0 > div{
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 2em;
+    width: 15em;
+    height: 15em;
+    border: solid;
+    /* float: left; */
+}
+img{
+    margin-top: 3vh;
+    width: 13em;
+    height: auto;
+}
